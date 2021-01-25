@@ -1,6 +1,6 @@
 # Github Gist Search [Deployed to Heroku](https://gist-search.herokuapp.com)
 The solution provides a web interface to user's to search for any users all gists it also exposes the REST Endpoint for same.
-Some key features are [well documented API swagger](https://gist-search.herokuapp.com/api-docs/), [application metrics dashboard](https://gist-search.herokuapp.com/appmetrics-dash),
+Some key features are [well documented API swagger](https://gist-search.herokuapp.com/api-docs/), [application metrics dashboard](https://gist-search.herokuapp.com/appmetrics-dash).
 
 ## To Run Locally
 
@@ -21,7 +21,7 @@ react, react-router
 redux, redux-thunk
 Vanilla CSS
 ```
-Implemented the basic functionality of search across users and repositories, added `skeleton loading` to avoid loaders and blank page.
+Implemented the basic functionality of search and list all gists for a user, added `skeleton loading` to avoid loaders and blank page.
 
 #### Trade-off
 UX for cards could have been better, also components could have been a bit less coupled.
