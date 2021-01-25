@@ -1,5 +1,5 @@
 # Github Gist Search [Deployed to Heroku](https://gist-search.herokuapp.com)
-The solution provides a web interface to user's to search for any users all gists it also exposes the REST Endpoint for same.
+The solution provides a responsive web interface to user's to search for any users all gists it also exposes the REST Endpoint for same.
 Some key features are [well documented API swagger](https://gist-search.herokuapp.com/api-docs/), [application metrics dashboard](https://gist-search.herokuapp.com/appmetrics-dash).
 
 ## To Run Locally
